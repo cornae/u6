@@ -16,26 +16,30 @@
 	    <script src="http://www.patternslib.com/bundles/patterns.min.js" type="text/javascript"></script> 
 	</head>
 	<body class="{{ page.template }}">
-		<div id="main" class="pat-auto-scale" data-pat-auto-scale="method: zoom">
-			{{ content }}
-
-			<ul class="navigation" id="globalNavigation">
-				<li id="portaltab-home" class="home">
-					<a href="{{ site.baseurl }}">Home</a>
-				</li>
-				<li class="contact">
-					<a href="{{ site.baseurl }}/about.html">About</a>
-				</li>
-				<li class="news">
-					<a href="{{ site.baseurl }}/news.html">News &amp; events</a>
-				</li>
-				<li class="news">
-					<a href="{{ site.baseurl }}/menu.html">Menu</a>
-				</li>
-			</ul>
-	        
+		<div id="menu" class="pat-auto-scale" data-pat-auto-scale="method: zoom">
+			<nav>
+				<a href="#about">Contact</a>
+				<a href="#info">Info</a>
+				<a href="#menu">Menu</a> 
+			</nav>
+			<section id="#info">
+				<h1>
+					Restaurant U6
+				</h1>
+				<section id="about">
+					<h2>About</h2>
+					<p>
+						…
+					</p>
+				</section>
+				<section id="info">
+					<h2>Info</h2>
+					{% include info.md %}
+				</section>
+				<section id="food">
+					{% include menu.md %}
+				</section>
+			</section>
 	    </div>
-        
-        <a href="#main" id="top" name="top">Back to top</a>
   </body>
 </html>
