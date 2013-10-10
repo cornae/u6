@@ -1,3 +1,7 @@
+---
+title: Info
+---
+
 # About U6
 
 …
