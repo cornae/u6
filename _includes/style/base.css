@@ -2,17 +2,19 @@
 
 body {
 	background-color: #5e5758;
-	padding: 10px 0 0 10px;
+	padding: 0;
 	margin: 0;
 }
 
 /* @group Main  */
 
 #menu {
-	width: 1000px;
+	width: 990px;
 	margin-right: auto;
 	margin-left: auto;
 	background-color: #f8aa33;
+	padding-top: 10px;
+	padding-left: 10px;
 }
 
 
