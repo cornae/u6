@@ -29,6 +29,13 @@ body {
 	top: 388px;
 }
 
+#global-nav a.menu {
+	z-index: 2;
+	position: absolute;
+	top: 388px;
+	left: 196px;
+}
+
 #global-nav a.contact {
 	z-index: 2;
 	position: absolute;
@@ -108,6 +115,7 @@ body {
 	background-image: url(logo-invert.svg);
 	background-position: center 55px;
 	background-repeat: no-repeat;
+	background-size: auto 60%;
 	padding-top: 268px;
 	color: white;
 	overflow: hidden;
@@ -116,7 +124,17 @@ body {
 
 #logo h1 {
 	position: absolute;
-	left: -1000px;
+	top: 0;
+	left: 0;
+	margin: 0;
+	right: 0;
+	bottom: 0;
+}
+
+#logo h1 a {
+	display: block;
+	height: 380px;
+	text-indent: -1000px;
 }
 
 /* @end */
@@ -151,8 +169,7 @@ body {
 
 /* @group Tile: Info */
 
-#info {
-	/*margin-top: -192px;*/
+#about {
 }
 
 
@@ -162,19 +179,39 @@ body {
 /* @group Tile: Menu */
 
 #food {
+	transition-delay: 0.2s;
+	margin-right: -758px;
+}
+
+#menu:target #food {
+	width: 758px;
+	height: 758px;
+	/*transition-delay: 0;*/
+}
+
+#menu:target #logo {
+	height: 188px;
+	padding-top: 140px;
+	background-position: center 0;
+}
+
+#menu:target #lifestyle-image {
+	height: 188px;
+	width: 378px;
+	margin-right: 196px;
 	margin-top: -192px;
-	margin-left: 192px;
 }
 
 
 
 /* @end */
 
-/* @group Tile: Lifestyle image */
+/* @group Tile: Food image */
 
 #food-image {
 	height: 570px;
 	width: 570px;
+	clear: both;
 }
 
 
