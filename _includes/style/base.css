@@ -247,6 +247,11 @@ body {
 	z-index: 2;
 }
 
+#food ul {
+	list-style-type: none;
+	font-style: italic;
+}
+
 #menu:target #food {
 	width: 762px;
 	height: 1528px;
