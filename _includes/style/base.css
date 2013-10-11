@@ -7,6 +7,16 @@ body {
 	font: 16px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
 
+/* @group Global navigation */
+
+#global-nav a {
+	position: absolute;
+}
+
+
+
+/* @end */
+
 /* @group Main  */
 
 #menu {

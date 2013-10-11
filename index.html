@@ -4,10 +4,10 @@ title: Welcome to foodbar U6!
 ---
 	
 		<div id="menu" class="pat-auto-scale" data-pat-auto-scale="method: zoom">
-			<nav>
-				<a href="#contact">Contact</a>
-				<a href="#info">Info</a>
-				<a href="#menu">Menu</a> 
+			<nav id="global-nav">
+				<a class="about" href="#about">Contact</a>
+				<a class="info" href="#info">Info</a>
+				<a class="menu" href="#menu">Menu</a> 
 			</nav>
 			<section id="#info">
 				<hgroup class="tile" id="logo">
@@ -26,14 +26,18 @@ title: Welcome to foodbar U6!
 					…
 				</figure>
 				<section class="tile" id="info">
+					<h2>
+						Info
+					</h2>
 <pre class="pat-markdown">
-## Info
 {% include info.markdown %}
 </pre>
 				</section>
 				<section class="tile" id="food">
+					<h2>
+						Menu
+					</h2>
 <pre class="pat-markdown">
-## Menu
 {% include menu.md %}
 </pre>
 				</section>
