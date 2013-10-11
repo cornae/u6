@@ -186,6 +186,11 @@ body {
 	height: 570px;
 }
 
+#contact p.tel a {
+	text-decoration: none;
+	cursor: default;
+}
+
 
 
 /* @end */
