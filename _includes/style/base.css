@@ -16,6 +16,7 @@ body {
 	background-color: #f8aa33;
 	padding-top: 10px;
 	padding-left: 10px;
+	overflow: hidden;
 }
 
 
@@ -25,11 +26,6 @@ body {
 #logo {
 	width: 290px;
 	height: 70px;
-	text-align: center;
-	float: left;
-	margin: 0 10px 10px 0;
-	outline: 10px white solid;
-	background-color: #6b6557;
 	background-image: url(logo-invert.svg);
 	background-position: center 15px;
 	background-repeat: no-repeat;
@@ -48,4 +44,13 @@ body {
 	font-style: normal;
 	font-size: 20px;
 	margin-top: 0;
+}
+
+.tile {
+	text-align: center;
+	float: left;
+	margin: 0 10px 10px 0;
+	outline: 10px white solid;
+	background-color: #6b6557;
+	color: white;
 }
