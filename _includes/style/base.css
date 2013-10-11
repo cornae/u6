@@ -26,20 +26,24 @@ body {
 #global-nav a.info {
 	z-index: 2;
 	position: absolute;
-	top: 388px;
+	top: 414px;
+	height: 380px;
+	left: 4px;
 }
 
 #global-nav a.menu {
-	z-index: 2;
+	z-index: 3;
 	position: absolute;
-	top: 388px;
+	top: 414px;
 	left: 196px;
+	height: 380px;
 }
 
 #global-nav a.contact {
 	z-index: 2;
 	position: absolute;
 	left: 770px;
+	top: 30px;
 }
 
 
@@ -49,18 +53,23 @@ body {
 /* @group Main  */
 
 #menu {
-	width: 958px;
+	width: 962px;
 	margin-right: auto;
 	margin-left: auto;
 	background-color: #f8aa33;
-	padding-top: 4px;
-	padding-left: 4px;
+	padding-top: 0;
 	overflow: hidden;
 	border: 20px solid white;
 	position: relative;
+	border-top-style: none;
 }
 
-#menu:before {
+#info {
+	padding-left: 4px;
+	border-top: 30px solid white;
+}
+
+#info:before {
 	content: " ";
 	position: absolute;
 	top: 0;
@@ -172,6 +181,16 @@ body {
 #about {
 }
 
+#info:target #about {
+	width: 762px;
+	height: 758px;
+	transition-delay: 0.2s;
+}
+
+#info:target #lifestyle-image {
+	height: 188px;
+}
+
 
 
 /* @end */
@@ -181,6 +200,7 @@ body {
 #food {
 	transition-delay: 0.2s;
 	margin-right: -758px;
+	z-index: 2;
 }
 
 #menu:target #food {
@@ -212,6 +232,7 @@ body {
 	height: 570px;
 	width: 570px;
 	clear: both;
+	z-index: 4;
 }
 
 
