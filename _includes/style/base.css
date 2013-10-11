@@ -7,6 +7,31 @@ body {
 	font: 18px/30px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
 
+/* @group Auto scale */
+
+.pat-auto-scale {	
+	transform-origin: left top;
+	opacity: 0;
+	-webkit-transition: opacity 1s;
+	-moz-transition: opacity 1s;
+	-o-transition: opacity 1s;
+	transition: opacity 1s;
+}
+
+.-ms- #content.pat-auto-scale {
+	zoom: 1 !important;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.pat-auto-scale.scaled {
+	opacity: 1;
+}
+
+
+
+/* @end */
+
 /* @group Global navigation */
 
 #global-nav a {
