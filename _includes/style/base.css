@@ -218,6 +218,7 @@ body {
 	height: 758px;
 	transition-delay: 0.2s;
 	z-index: 3;
+	margin-top: -188px;
 }
 
 #info:target #lifestyle-image {
