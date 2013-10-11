@@ -1,7 +1,7 @@
 @import url("fontello/css/fontello.css");
 
 body {
-	background-color: #5e5758;
+	background-color: white;
 	padding: 0;
 	margin: 0;
 	font: 16px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
@@ -11,6 +11,28 @@ body {
 
 #global-nav a {
 	position: absolute;
+	width: 188px;
+	height: 188px;
+	z-index: 2;
+	overflow: hidden;
+	text-indent: -1000px;
+}
+
+#global-nav a:hover {
+	background-color: white;
+	opacity: 0.06;
+}
+
+#global-nav a.info {
+	z-index: 2;
+	position: absolute;
+	top: 388px;
+}
+
+#global-nav a.contact {
+	z-index: 2;
+	position: absolute;
+	left: 770px;
 }
 
 
@@ -64,6 +86,7 @@ body {
 	overflow: hidden;
 	position: relative;
 	z-index: 1;
+	transition: all 0.3s;
 }
 
 .tile h2 {
@@ -103,6 +126,12 @@ body {
 	float: right;
 }
 
+#contact:target {
+	width: 570px;
+	z-index: 3;
+	height: 380px;
+}
+
 
 
 /* @end */
@@ -112,6 +141,7 @@ body {
 #lifestyle-image {
 	height: 380px;
 	width: 570px;
+	float: right;
 }
 
 
@@ -121,7 +151,7 @@ body {
 /* @group Tile: Info */
 
 #info {
-	margin-top: -192px;
+	/*margin-top: -192px;*/
 }
 
 
