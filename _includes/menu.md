@@ -1,7 +1,3 @@
----
-title: Menu
----
-
 # Our wake-up Breakfast
 - Croissants with butter and jam
 - scrambled eggs with bacon, cheese or tomato - Yoghurt with daily fresh fruit
