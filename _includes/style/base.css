@@ -30,13 +30,14 @@ body {
 	height: 380px;
 	left: 4px;
 }
-
+ 
 #global-nav a.menu {
 	z-index: 3;
 	position: absolute;
 	top: 414px;
 	left: 196px;
 	height: 380px;
+	width: 760px;
 }
 
 #global-nav a.contact {
@@ -170,6 +171,7 @@ body {
 	height: 380px;
 	width: 570px;
 	float: right;
+	z-index: 3;
 }
 
 
@@ -185,11 +187,23 @@ body {
 	width: 762px;
 	height: 758px;
 	transition-delay: 0.2s;
+	z-index: 3;
 }
 
 #info:target #lifestyle-image {
 	height: 188px;
 }
+
+/*#info:target #global-nav a.info {
+	display: none;
+}
+
+#info:target #global-nav a.menu {
+	background-color: red;
+	left: 230px;
+	top: 320px;
+	z-index: 4;
+}*/
 
 
 
@@ -206,13 +220,22 @@ body {
 #menu:target #food {
 	width: 758px;
 	height: 758px;
-	/*transition-delay: 0;*/
+	z-index: 2;
 }
 
 #menu:target #logo {
 	height: 188px;
 	padding-top: 140px;
 	background-position: center 0;
+}
+
+#menu:target #global-nav a.info {
+	top: 222px;
+	height: 188px;
+}
+
+#menu:target #global-nav a.menu {
+	display: none;
 }
 
 #menu:target #lifestyle-image {
