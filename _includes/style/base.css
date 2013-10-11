@@ -31,6 +31,17 @@ body {
 	position: relative;
 }
 
+#menu:before {
+	content: " ";
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 0;
+	border: 4px solid white;
+}
+
 
 
 /* @end */
@@ -51,6 +62,8 @@ body {
 	line-height: 160px;
 	font-size: 16px;
 	overflow: hidden;
+	position: relative;
+	z-index: 1;
 }
 
 .tile h2 {
