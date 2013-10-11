@@ -4,7 +4,7 @@ body {
 	background-color: white;
 	padding: 0;
 	margin: 0;
-	font: 16px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	font: 18px/30px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
 
 /* @group Global navigation */
@@ -95,11 +95,9 @@ body {
 	outline: 4px white solid;
 	background-color: #6b6557;
 	color: white;
-	padding: 82px 15px 15px;
+	padding: 78px 15px 15px;
 	width: 188px;
 	height: 188px;
-	line-height: 24px;
-	font-size: 16px;
 	overflow: hidden;
 	position: relative;
 	z-index: 1;
