@@ -4,41 +4,28 @@ body {
 	background-color: #5e5758;
 	padding: 0;
 	margin: 0;
-	font: 20px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	font: 16px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
 
 /* @group Main  */
 
 #menu {
-	width: 990px;
+	width: 958px;
 	margin-right: auto;
 	margin-left: auto;
 	background-color: #f8aa33;
-	padding-top: 10px;
-	padding-left: 10px;
+	padding-top: 4px;
+	padding-left: 4px;
 	overflow: hidden;
+	border: 20px solid white;
+	position: relative;
 }
 
 
 
 /* @end */
 
-#logo {
-	width: 290px;
-	height: 290px;
-	background-image: url(logo-invert.svg);
-	background-position: center 15px;
-	background-repeat: no-repeat;
-	padding-top: 220px;
-	color: white;
-	overflow: hidden;
-	line-height: 30px;
-}
-
-#logo h1 {
-	position: absolute;
-	left: -1000px;
-}
+/* @group Tile general */
 
 .tile {
 	box-sizing: border-box;
@@ -49,9 +36,9 @@ body {
 	background-color: #6b6557;
 	color: white;
 	padding: 15px;
-	width: 143px;
-	height: 143px;
-	line-height: 110px;
+	width: 188px;
+	height: 188px;
+	line-height: 160px;
 	font-size: 16px;
 	overflow: hidden;
 }
@@ -59,7 +46,95 @@ body {
 .tile h2 {
 	font-weight: normal;
 	font-style: normal;
-	font-size: 20px;
+	font-size: 25px;
 	margin-top: 0;
 	line-height: inherit;
 }
+
+/* @end */
+
+/* @group Tile: Logo */
+
+#logo {
+	width: 380px;
+	height: 380px;
+	background-image: url(logo-invert.svg);
+	background-position: center 55px;
+	background-repeat: no-repeat;
+	padding-top: 268px;
+	color: white;
+	overflow: hidden;
+	line-height: 30px;
+}
+
+#logo h1 {
+	position: absolute;
+	left: -1000px;
+}
+
+/* @end */
+
+/* @group Tile: Contact */
+
+#contact {
+	float: right;
+}
+
+
+
+/* @end */
+
+/* @group Tile: Lifestyle image */
+
+#lifestyle-image {
+	height: 380px;
+	width: 570px;
+}
+
+
+
+/* @end */
+
+/* @group Tile: Info */
+
+#info {
+	margin-top: -192px;
+}
+
+
+
+/* @end */
+
+/* @group Tile: Menu */
+
+#food {
+	margin-top: -192px;
+	margin-left: 192px;
+}
+
+
+
+/* @end */
+
+/* @group Tile: Lifestyle image */
+
+#food-image {
+	height: 570px;
+	width: 570px;
+}
+
+
+
+/* @end */
+
+/* @group Tile: Building image */
+
+#building-image {
+	height: 380px;
+	width: 380px;
+	margin-top: 190px;
+}
+
+
+
+/* @end */
