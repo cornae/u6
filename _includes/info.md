@@ -1,7 +1,3 @@
-# About U6
-
-…
-
 # Opening hours
 
 - Monday - Friday: 9:00 - 21:00
