@@ -148,13 +148,26 @@ body {
 
 .tile ul {
 	list-style-type: none;
+	margin-bottom: 2em;
+}
+
+.tile ul li {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.tile ul li em {
+	color: #ffa801;
 }
 
 .tile section h1 {
 	font-weight: bold;
-	border: 1px solid #cbbea4;
+	border: 1px solid #ffa801;
 	border-left-style: none;
 	border-right-style: none;
+	font-family: 'Open Sans Condensed', sans-serif;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 /* @end */
