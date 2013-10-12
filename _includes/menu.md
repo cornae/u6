@@ -28,6 +28,6 @@ and basil-oil
 - Our pasta of the week
 
 # Our sweets for you sweets
-- amazing homemade Apple-pie
+- Amazing homemade Apple-pie
 - Hot chocolate-pie with vanilla icecream - Delicious Crème Brûlée
  
