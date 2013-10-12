@@ -226,7 +226,7 @@ body {
 #contact:target {
 	width: 570px;
 	z-index: 3;
-	height: 570px;
+	height: 380px;
 }
 
 #contact p.tel a {
@@ -280,9 +280,13 @@ body {
 
 #info:target #logo {
 	height: 188px;
-	padding-top: 140px;
-	background-position: center 20px;
+	padding-top: 130px;
+	background-position: center 30px;
 	margin-bottom: 192px;
+}
+
+#info:target #logo h2 {
+	font-size: 20px;
 }
 
 
@@ -312,8 +316,13 @@ body {
 
 #menu:target #logo {
 	height: 188px;
-	padding-top: 140px;
-	background-position: center 20px;}
+	padding-top: 130px;
+	background-position: center 30px;
+}
+
+#menu:target #logo h2 {
+	font-size: 20px;
+}
 
 #menu:target #global-nav a.info {
 	top: 222px;
