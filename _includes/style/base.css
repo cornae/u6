@@ -1,8 +1,12 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400,300,700&subset=latin,latin-ext);
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700&subset=latin,latin-ext);
+
 body {
 	background-color: white;
 	padding: 0;
 	margin: 0;
-	font: 18px/30px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	font: 18px/30px 'Open Sans', sans-serif;
 }
 
 /* @group Auto scale */
@@ -125,6 +129,7 @@ body {
 	position: relative;
 	z-index: 1;
 	transition: all 0.3s;
+	font-weight: 300;
 }
 
 .tile a {
@@ -134,10 +139,19 @@ body {
 .tile h2 {
 	font-weight: normal;
 	font-style: normal;
-	font-size: 25px;
+	font-size: 34px;
 	margin-top: 0;
 	line-height: inherit;
 	margin-bottom: 80px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.tile ul {
+	list-style-type: none;
+}
+
+.tile section h1 {
+	font-weight: bold;
 }
 
 /* @end */
