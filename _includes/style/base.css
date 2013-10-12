@@ -90,6 +90,9 @@ body {
 	border-top-style: none;
 	margin-right: auto;
 	margin-left: auto;
+	transition: 0.8s opacity;
+	transition-delay: 0.4s;
+	opacity: 1;
 }
 
 #info {
