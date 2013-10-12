@@ -128,7 +128,7 @@ body {
 	overflow: hidden;
 	position: relative;
 	z-index: 1;
-	transition: all 0.3s;
+	transition: all 0.4s;
 	font-weight: 300;
 }
 
@@ -236,7 +236,7 @@ body {
 #info:target #about {
 	width: 380px;
 	height: 758px;
-	transition-delay: 0.2s;
+	transition-delay: 0.4s;
 	z-index: 3;
 	margin-top: -188px;
 }
