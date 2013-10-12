@@ -100,7 +100,7 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 	animation: fade-in 1s;
-	-webkit-animation-fill-mode: forwards;
+	animation-fill-mode: forwards;
 	animation-delay: 0.4s;
 	opacity: 0;
 }
