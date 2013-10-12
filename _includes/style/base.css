@@ -157,7 +157,8 @@ body {
 	line-height: inherit;
 	margin-bottom: 80px;
 	font-family: 'Open Sans Condensed', sans-serif;
-	transition: 0.8s
+	transition: 0.8s;
+	color: white;
 }
 
 .tile:target h2,
@@ -211,6 +212,10 @@ body {
 	color: #f8aa33;
 	overflow: hidden;
 	line-height: 30px;
+}
+
+#logo h2 {
+	color: #f8aa33;
 }
 
 #logo h1 {
