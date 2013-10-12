@@ -144,6 +144,14 @@ body {
 	line-height: inherit;
 	margin-bottom: 80px;
 	font-family: 'Open Sans Condensed', sans-serif;
+	transition: 0.8s
+}
+
+.tile:target h2,
+#menu:target #food h2,
+#info:target #about h2
+ {
+	margin-bottom: 40px;
 }
 
 .tile ul {
