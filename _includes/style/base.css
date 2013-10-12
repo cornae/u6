@@ -152,6 +152,9 @@ body {
 
 .tile section h1 {
 	font-weight: bold;
+	border: 1px solid #cbbea4;
+	border-left-style: none;
+	border-right-style: none;
 }
 
 /* @end */
