@@ -9,6 +9,15 @@ body {
 	font: 18px/30px 'Open Sans', sans-serif;
 }
 
+/* @group Animations */
+
+@keyframes fade-in {
+	from 	 { opacity:0; }
+	to	 { opacity: 1; }
+}
+
+/* @end */
+
 /* @group Auto scale */
 
 .pat-auto-scale {	
@@ -90,9 +99,10 @@ body {
 	border-top-style: none;
 	margin-right: auto;
 	margin-left: auto;
-	transition: 0.8s opacity;
-	transition-delay: 0.4s;
-	opacity: 1;
+	animation: fade-in 1s;
+	-webkit-animation-fill-mode: forwards;
+	animation-delay: 0.4s;
+	opacity: 0;
 }
 
 #info {
