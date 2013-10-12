@@ -14,7 +14,7 @@
 - Club sandwich *€ 7,50*
 
 # Our fresh salads
-- Fresh tuna salad *€ 13,50*
+- Niçoise salad with **fresh tuna** *€ 13,50*
 - Goat-cheese with fresh figs and homemade dressing made of the finest port *€ 10,50*
 - Carpaccio with old cheese, tomatoes, pine nuts and basil-oil *€ 12,50*
 
