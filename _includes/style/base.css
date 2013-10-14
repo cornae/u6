@@ -105,6 +105,10 @@ body {
 	opacity: 0;
 }
 
+.lt-ie10 #menu {
+	opacity: 1;
+}
+
 #info {
 	padding-left: 4px;
 	border-top: 30px solid white;
