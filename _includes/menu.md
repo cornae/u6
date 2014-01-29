@@ -1,5 +1,5 @@
 # Our wake-up Breakfast
-- Croissants with butter and jam *€ 4*
+- Croissants with butter and jam *€ 6*
 - scrambled eggs with bacon, cheese or tomato *6,50*
 - Yoghurt with daily fresh fruit *€ 4,50*
 
