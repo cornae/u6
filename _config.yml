@@ -1,4 +1,44 @@
 title: Restaurant U6
 author: Cornelis G. A. Kolbach
-baseurl: http://cornae.github.io/u6
-media: http://cornae.github.io/u6/media
+baseurl: http://www.u6-amsterdam.com
+media: http://www.u6-amsterdam.com/media
+
+prose:
+  rooturl: '_includes'
+  siteurl: 'http://www.u6-amsterdam.com'
+  relativeLinks: 'http://www.u6-amsterdam.com/links.jsonp'
+  media: 'media/'
+  ignore:
+    - index.html
+    - _config.yml
+    - /_layouts
+    - /_posts
+    - /media
+    - /lib
+    - /work
+    - /style
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "generic"
+      - name: "title"
+        field:
+          element: "text"
+          placeholder: "Title"
+          label: "Document title"
+      - name: "summary"
+        field:
+          element: "text"
+          label: "Document summary"
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""

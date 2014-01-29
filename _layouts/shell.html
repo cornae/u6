@@ -12,17 +12,15 @@
 	    <meta name="viewport" content="width=device-width" />
 	    <title>{{ page.title }}</title>
 	    <meta name="Language" content="en" />
+	    <link rel="stylesheet" href="{{ site.baseurl }}/style/base.css" type="text/css" media="screen" charset="utf-8" />   
 	    <style>
-	    	{% include style/base.css %}
 	    	#logo {
-				background-image: url({{ site.media }}/logo-invert.svg);
+				background-image: url({{ site.baseurl }}/media/logo-invert.svg);
 			}
 	   	</style> 
 	</head>
 	<body id="home">
 		{{ content }}
-	    <script>
-	    {% include behaviour/patterns.min.js %}
-	   	</script>
+	   	<script type="text/javascript" src="{{ site.baseurl }}/libs/patterns.min.js"></script>
 	</body>
 </html>

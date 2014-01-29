@@ -37,17 +37,19 @@ title: Welcome to restaurant U6!
 					<h2>
 						Info
 					</h2>
-<pre class="pat-markdown">
-{% include info.md %}
-</pre>
+					<section>
+{% capture info %}{% include info.md %}{% endcapture %}
+{{ info | markdownify }}
+					</section>
 				</section>
 				<section class="tile" id="food">
 					<h2>
 						Menu
 					</h2>
-<pre class="pat-markdown">
-{% include menu.md %}
-</pre>
+					<section>
+{% capture menu %}{% include menu.md %}{% endcapture %}
+{{ menu | markdownify }}
+					</section>
 				</section>
 				<figure class="tile" id="food-image">
 					<img src="{{ site.media }}/food-1.jpg" />
