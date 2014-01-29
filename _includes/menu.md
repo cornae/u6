@@ -18,7 +18,6 @@
 - Goat-cheese with fresh figs and homemade dressing made of the finest port *€ 10,50*
 - Carpaccio with old cheese, tomatoes, pine nuts and basil-oil *€ 12,50*
 
-
 # Our mind-blowing main courses
 - Quiche Lorraine *€ 8,50*
 - Tournedos in a delicious red wine-thyme sauce  *€ 16,50*
@@ -34,4 +33,3 @@
 - Amazing homemade Apple-pie *€ 4,50*
 - Hot chocolate-pie with vanilla icecream *6,50*
 - Delicious Crème Brûlée *€ 4,50*
- 
