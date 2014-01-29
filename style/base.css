@@ -104,7 +104,7 @@ body {
 	animation: fade-in 1s;
 	animation-fill-mode: forwards;
 	animation-delay: 0.4s;
-	opacity: 0;
+	/*opacity: 0;*/
 }
 
 .lt-ie10 #menu {
