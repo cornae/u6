@@ -4,7 +4,6 @@ One cannot think well, love well, if one has not dined well.
 - Croissants with butter and jam *€ 3*
 - scrambled eggs with salmon, bacon, cheese or tomato *from € 6,50*
 - Yoghurt with granola, daily fresh fruit and honey *€ 4,50*
-
 # Sandwiches (corn or whole wheat)
 - Caprese (tomato, mozzarella and basil) *€ 7*
 - Spicy chicken fried with sambal, sweet&sour cucumber *€ 7,50*
@@ -36,7 +35,7 @@ One cannot think well, love well, if one has not dined well.
 - Side salad *€ 4,50* 
 - French fries *€ 4,50*
 
-# Our chef's Course Menu *€ 22,50*
+# Our famous chef's Course Menu *€ 22,50*
 
 # Desserts
 - Crème Brûlée *€ 5,50*
@@ -49,10 +48,7 @@ One cannot think well, love well, if one has not dined well.
 - Nachos with cheese, jalapeños, chilli sauce, crème fraîche and guacamole *€7,50*
 - Cheese platter served with fig bread and balsamic jam  *€9,50*
 - Meat platter of dry sausages and hams  *€ 12,50*
-- Bitterballen: Famous Dutch fried beef *€ 5,00*
-- Vlammetjes: Spicy fried beef *€ 5,50*
-- Fried cheese sticks *€ 5,50*
-- Vegetarian spring rolls  *€ 5,50*
+- Bitterballen, vlammetjes, cheesesrolls, 
 - Mix of fried snacks  *€ 5,50*
 - Olives *€ 3,50*
 - Smoked Ox sausages: A local specialty *€ 5,50*
