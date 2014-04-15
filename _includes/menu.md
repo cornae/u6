@@ -1,3 +1,4 @@
+We loved with a love that was more than love
 # Breakfast
 - Croissants with butter and jam *€ 3*
 - scrambled eggs with salmon, bacon, cheese or tomato *from € 6,50*
