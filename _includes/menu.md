@@ -15,12 +15,7 @@ We loved with a love that was more than love
 - Club sandwich chicken with bacon, tomato, lettuce and mango chutney *€ 9,50*
 - Club sandwich smoked salmon with tomato, rocket, capers and a sauce of crème fraîche with herbs *€ 9,50*
 
-# Grilled Sandwiches 
-- Ham/cheese *€ 3,50*  XL *€ 6,00*
-- Ham/cheese/tomato *€ 3,75*  XL *€ 7,00*
-- Chorizo/cheese/tomato *€ 4,50*  XL *€ 8,50*
-- Mozzarella/tomato/pesto *€ 5,00*  XL *€ 9,50*
-- Goat cheese/honey *€5,00*  XL *€ 9,50*
+# Variation of Grilled Sandwiches 
 
 # Salads *12,50*
 - Caprese salad with mozzarella, tomato, pesto and pine nuts
