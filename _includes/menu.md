@@ -1,4 +1,5 @@
-We loved with a love that was more than love
+One cannot think well, love well, if one has not dined well.
+
 # Breakfast
 - Croissants with butter and jam *€ 3*
 - scrambled eggs with salmon, bacon, cheese or tomato *from € 6,50*
@@ -24,8 +25,6 @@ We loved with a love that was more than love
 - Carpaccio salad with Dutch aged cheese, pine nuts and pesto
 
 # Soups *€ 4,50*
-- Tomato soup
-- Soup of the day
 
 # Main Courses 
 - Rib eye with grilled vegetables, potatoes from the oven and red wine sauce *€ 17,50*
