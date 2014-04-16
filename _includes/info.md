@@ -1,7 +1,6 @@
 # Opening hours
 
-- Monday - Friday: 9:00 - 23:00
-- Saturday - Sunday: 9:00 - 23:00
+All week from 10.00 to 23.00
 
 # Social media
 
