@@ -1,3 +1,8 @@
+# About us
+
+We are a small Family bussiness in the centre of Amsterdam.
+
+
 # Opening hours
 
 All week from 10.00 to 23.00
