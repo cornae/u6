@@ -10,4 +10,4 @@ Now the time is right for us to put all of that energie and passion in something
 
 You can find us on:
 - [Facebook](https://www.facebook.com/U6Cafe "Find us on Facebook")-
-- http://www.singel101.nl
+- (singel 101) (http://www.singel101.nl)
