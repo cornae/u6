@@ -33,5 +33,5 @@ One cannot think well, love well, if one has not dined well.
 - Side salad *€ 4,50* 
 - French fries *€ 4,50*
 
-# Our famous chef's Course Menu *€ 22,50*
+# Our famous chef's 3 Course Menu *€ 22,50*
 
