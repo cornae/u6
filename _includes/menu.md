@@ -8,7 +8,6 @@ One cannot think well, love well, if one has not dined well.
 - Caprese (tomato, mozzarella and basil) *€ 7*
 - Spicy chicken fried with sambal, sweet&sour cucumber *€ 7,50*
 - Carpaccio with aged cheese, pine nuts, rocket and herb dressing *€ 8,75*
-- Aged Dutch cheese with tomato, cucumber, boiled egg and truffle mayonnaise *€ 6,50*
 - Pastrami with candied sauerkraut, pickles and mustard sauce. Served warm *€ 8,50*
 - Brie with walnuts and honey. Warm or cold *€ 7,50*
 - Club sandwich chicken with bacon, tomato, lettuce and mango chutney *€ 9,50*
