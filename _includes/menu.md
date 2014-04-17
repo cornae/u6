@@ -8,7 +8,6 @@ One cannot think well, love well, if one has not dined well.
 - Caprese (tomato, mozzarella and basil) *€ 7*
 - Spicy chicken fried with sambal, sweet&sour cucumber *€ 7,50*
 - Carpaccio with aged cheese, pine nuts, rocket and herb dressing *€ 8,75*
-- Tuna-salad with olives, egg, capers, bell pepper and apple *€ 7*
 - Aged Dutch cheese with tomato, cucumber, boiled egg and truffle mayonnaise *€ 6,50*
 - Pastrami with candied sauerkraut, pickles and mustard sauce. Served warm *€ 8,50*
 - Brie with walnuts and honey. Warm or cold *€ 7,50*
@@ -37,18 +36,3 @@ One cannot think well, love well, if one has not dined well.
 
 # Our famous chef's Course Menu *€ 22,50*
 
-# Desserts
-- Crème Brûlée *€ 5,50*
-- Brownie with nuts *6,50*
-- Vanilla cheesecake *€ 6,50*
-- Scroppino *€ 6,50*
-
-# Snacks
-- Bread with different types of tapenade and aïoli *€ 6,50*
-- Nachos with cheese, jalapeños, chilli sauce, crème fraîche and guacamole *€7,50*
-- Cheese platter served with fig bread and balsamic jam  *€9,50*
-- Meat platter of dry sausages and hams  *€ 12,50*
-- Bitterballen, vlammetjes, cheesesrolls, 
-- Mix of fried snacks  *€ 5,50*
-- Olives *€ 3,50*
-- Smoked Ox sausages: A local specialty *€ 5,50*
