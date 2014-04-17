@@ -4,12 +4,10 @@ We come from a big familie of mostly women, and all of us have gained experience
 It all started at Singel 101 8 years a go. 
 It was a start of a beautifull collaboration with 2 of zeven sisters.
 Julia and Anahi Castro Machuca
-Now the time is right for us to put all of that energie and passion in something that represents who we are, we call it “U6” Utrechtsestraat6
-Open every day from 10:00 till 23:00
+Now the time is right for us to put all of that energie and passion in something that represents who we are, we call it “U6” 
 
 # Social media
 
 You can find us on:
-
 - [Facebook](https://www.facebook.com/U6Cafe "Find us on Facebook")-
 - http://www.singel101.nl
