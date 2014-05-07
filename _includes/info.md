@@ -10,5 +10,5 @@ Now the time is right for us to put all of that energie and passion in something
 
 You can find us on:
 - [Facebook](https://www.facebook.com/U6Cafe "Find us on Facebook")
-- <a href="https://www.singel101.nl/home/">Singel101</a>
+- [singel101](https://www.singel101.nl/home)
 
