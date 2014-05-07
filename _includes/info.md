@@ -9,5 +9,5 @@ Now the time is right for us to put all of that energie and passion in something
 # Social media
 
 You can find us on:
-- [Facebook](https://www.facebook.com/U6Cafe "Find us on Facebook")-
-- (singel 101) (http://www.singel101.nl)
+- [Facebook](https://www.facebook.com/U6Cafe "Find us on Facebook")
+- [singel 101](www.singel101.nl) 
