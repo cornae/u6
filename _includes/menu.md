@@ -1,4 +1,6 @@
 One cannot think well, love well, if one has not dined well.
+- on the 23 of mei it's lobsterday at u6.. *€ 30'- PP*
+ reservations are in order call or mail us.
 
 # Breakfast
 - Croissants with butter and jam *€ 3*
@@ -9,7 +11,6 @@ One cannot think well, love well, if one has not dined well.
 - Spicy chicken fried with sambal, sweet&sour cucumber *€ 7,50*
 - Carpaccio with aged cheese, pine nuts, rocket and herb dressing *€ 8,75*
 - Pastrami with candied sauerkraut, pickles and mustard sauce. Served warm *€ 8,50*
-- Brie with walnuts and honey. Warm or cold *€ 7,50*
 - Club sandwich chicken with bacon, tomato, lettuce and mango chutney *€ 9,50*
 - Club sandwich smoked salmon with tomato, rocket, capers and a sauce of crème fraîche with herbs *€ 9,50*
 
